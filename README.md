@@ -14,6 +14,4 @@ Usage
 
 Contact
 -------
-- Stephen Bonar
-- www.stephenbonar.com
-- contactme@stephenbonar.com
+Stephen Bonar | www.stephenbonar.com | contactme@stephenbonar.com
